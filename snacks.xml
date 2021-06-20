@@ -1,229 +1,228 @@
-
-
-<?xml version="1.0" encoding="UTF-8"?>
+<xml version="1.0" encoding="UTF-8">
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
-	<channel>
-		 <title>Android's picks</title>
-		 <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
-		 <link>https://blog.jetbrains.com</link>
-		 <description>Developer Tools for Professionals and Teams</description>
-		 <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
-		 <language>en-US</language>
-		 <sy:updatePeriod>hourly</sy:updatePeriod>
-		 <sy:updateFrequency>1</sy:updateFrequency>
-		 <generator>https://wordpress.org/?v=5.7.2</generator>
-		 <image>
-				<url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
-				<title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
-				<link>https://blog.jetbrains.com</link>
-				<width>32</width>
-				<height>32</height>
-		 </image>
-		 <item>
-				<title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
-				<link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
-				<dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
-				<pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
-				<featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
-				<category><![CDATA[news]]></category>
-				<category><![CDATA[contest]]></category>
-				<category><![CDATA[events]]></category>
-				<category><![CDATA[newsletter]]></category>
-				<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
-				<description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
-		 </item>
-	</channel>
-	<channel>
-		 <title>Popular on Jetsnack</title>
-		 <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
-		 <link>https://blog.jetbrains.com</link>
-		 <description>Developer Tools for Professionals and Teams</description>
-		 <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
-		 <language>en-US</language>
-		 <sy:updatePeriod>hourly</sy:updatePeriod>
-		 <sy:updateFrequency>1</sy:updateFrequency>
-		 <generator>https://wordpress.org/?v=5.7.2</generator>
-		 <image>
-				<url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
-				<title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
-				<link>https://blog.jetbrains.com</link>
-				<width>32</width>
-				<height>32</height>
-		 </image>
-		 <item>
-				<title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
-				<link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
-				<dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
-				<pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
-				<featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
-				<category><![CDATA[news]]></category>
-				<category><![CDATA[contest]]></category>
-				<category><![CDATA[events]]></category>
-				<category><![CDATA[newsletter]]></category>
-				<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
-				<description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
-		 </item>
-	</channel>
-	<channel>
-		 <title>WFH favourites</title>
-		 <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
-		 <link>https://blog.jetbrains.com</link>
-		 <description>Developer Tools for Professionals and Teams</description>
-		 <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
-		 <language>en-US</language>
-		 <sy:updatePeriod>hourly</sy:updatePeriod>
-		 <sy:updateFrequency>1</sy:updateFrequency>
-		 <generator>https://wordpress.org/?v=5.7.2</generator>
-		 <image>
-				<url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
-				<title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
-				<link>https://blog.jetbrains.com</link>
-				<width>32</width>
-				<height>32</height>
-		 </image>
-		 <item>
-				<title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
-				<link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
-				<dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
-				<pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
-				<featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
-				<category><![CDATA[news]]></category>
-				<category><![CDATA[contest]]></category>
-				<category><![CDATA[events]]></category>
-				<category><![CDATA[newsletter]]></category>
-				<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
-				<description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
-		 </item>
-	</channel>
-	<channel>
-		 <title>Newly Added</title>
-		 <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
-		 <link>https://blog.jetbrains.com</link>
-		 <description>Developer Tools for Professionals and Teams</description>
-		 <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
-		 <language>en-US</language>
-		 <sy:updatePeriod>hourly</sy:updatePeriod>
-		 <sy:updateFrequency>1</sy:updateFrequency>
-		 <generator>https://wordpress.org/?v=5.7.2</generator>
-		 <image>
-				<url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
-				<title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
-				<link>https://blog.jetbrains.com</link>
-				<width>32</width>
-				<height>32</height>
-		 </image>
-		 <item>
-				<title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
-				<link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
-				<dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
-				<pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
-				<featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
-				<category><![CDATA[news]]></category>
-				<category><![CDATA[contest]]></category>
-				<category><![CDATA[events]]></category>
-				<category><![CDATA[newsletter]]></category>
-				<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
-				<description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
-		 </item>
-	</channel>
-	<channel>
-		 <title>Only on Jetsnack</title>
-		 <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
-		 <link>https://blog.jetbrains.com</link>
-		 <description>Developer Tools for Professionals and Teams</description>
-		 <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
-		 <language>en-US</language>
-		 <sy:updatePeriod>hourly</sy:updatePeriod>
-		 <sy:updateFrequency>1</sy:updateFrequency>
-		 <generator>https://wordpress.org/?v=5.7.2</generator>
-		 <image>
-				<url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
-				<title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
-				<link>https://blog.jetbrains.com</link>
-				<width>32</width>
-				<height>32</height>
-		 </image>
-		 <item>
-				<title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
-				<link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
-				<dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
-				<pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
-				<featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
-				<category><![CDATA[news]]></category>
-				<category><![CDATA[contest]]></category>
-				<category><![CDATA[events]]></category>
-				<category><![CDATA[newsletter]]></category>
-				<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
-				<description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
-		 </item>
-	</channel>
-	<channel>
-		 <title>Customers also bought</title>
-		 <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
-		 <link>https://blog.jetbrains.com</link>
-		 <description>Developer Tools for Professionals and Teams</description>
-		 <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
-		 <language>en-US</language>
-		 <sy:updatePeriod>hourly</sy:updatePeriod>
-		 <sy:updateFrequency>1</sy:updateFrequency>
-		 <generator>https://wordpress.org/?v=5.7.2</generator>
-		 <image>
-				<url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
-				<title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
-				<link>https://blog.jetbrains.com</link>
-				<width>32</width>
-				<height>32</height>
-		 </image>
-		 <item>
-				<title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
-				<link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
-				<dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
-				<pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
-				<featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
-				<category><![CDATA[news]]></category>
-				<category><![CDATA[contest]]></category>
-				<category><![CDATA[events]]></category>
-				<category><![CDATA[newsletter]]></category>
-				<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
-				<description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
-		 </item>
-	</channel>
-	<channel>
-		 <title>Inspired by your cart</title>
-		 <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
-		 <link>https://blog.jetbrains.com</link>
-		 <description>Developer Tools for Professionals and Teams</description>
-		 <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
-		 <language>en-US</language>
-		 <sy:updatePeriod>hourly</sy:updatePeriod>
-		 <sy:updateFrequency>1</sy:updateFrequency>
-		 <generator>https://wordpress.org/?v=5.7.2</generator>
-		 <image>
-				<url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
-				<title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
-				<link>https://blog.jetbrains.com</link>
-				<width>32</width>
-				<height>32</height>
-		 </image>
-		 <item>
-				<title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
-				<link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
-				<dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
-				<pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
-				<featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
-				<category><![CDATA[news]]></category>
-				<category><![CDATA[contest]]></category>
-				<category><![CDATA[events]]></category>
-				<category><![CDATA[newsletter]]></category>
-				<guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
-				<description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
-		 </item>
-	</channel>
+   <channel>
+      <title>Android's picks</title>
+      <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
+      <link>https://blog.jetbrains.com</link>
+      <description>Developer Tools for Professionals and Teams</description>
+      <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
+      <language>en-US</language>
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+      <sy:updateFrequency>1</sy:updateFrequency>
+      <generator>https://wordpress.org/?v=5.7.2</generator>
+      <image>
+         <url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
+         <title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
+         <link>https://blog.jetbrains.com</link>
+         <width>32</width>
+         <height>32</height>
+      </image>
+      <item>
+         <title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
+         <link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
+         <dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
+         <pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
+         <featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
+         <category><![CDATA[news]]></category>
+         <category><![CDATA[contest]]></category>
+         <category><![CDATA[events]]></category>
+         <category><![CDATA[newsletter]]></category>
+         <guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
+         <description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
+      </item>
+   </channel>
+   <channel>
+      <title>Popular on Jetsnack</title>
+      <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
+      <link>https://blog.jetbrains.com</link>
+      <description>Developer Tools for Professionals and Teams</description>
+      <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
+      <language>en-US</language>
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+      <sy:updateFrequency>1</sy:updateFrequency>
+      <generator>https://wordpress.org/?v=5.7.2</generator>
+      <image>
+         <url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
+         <title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
+         <link>https://blog.jetbrains.com</link>
+         <width>32</width>
+         <height>32</height>
+      </image>
+      <item>
+         <title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
+         <link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
+         <dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
+         <pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
+         <featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
+         <category><![CDATA[news]]></category>
+         <category><![CDATA[contest]]></category>
+         <category><![CDATA[events]]></category>
+         <category><![CDATA[newsletter]]></category>
+         <guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
+         <description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
+      </item>
+   </channel>
+   <channel>
+      <title>WFH favourites</title>
+      <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
+      <link>https://blog.jetbrains.com</link>
+      <description>Developer Tools for Professionals and Teams</description>
+      <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
+      <language>en-US</language>
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+      <sy:updateFrequency>1</sy:updateFrequency>
+      <generator>https://wordpress.org/?v=5.7.2</generator>
+      <image>
+         <url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
+         <title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
+         <link>https://blog.jetbrains.com</link>
+         <width>32</width>
+         <height>32</height>
+      </image>
+      <item>
+         <title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
+         <link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
+         <dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
+         <pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
+         <featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
+         <category><![CDATA[news]]></category>
+         <category><![CDATA[contest]]></category>
+         <category><![CDATA[events]]></category>
+         <category><![CDATA[newsletter]]></category>
+         <guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
+         <description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
+      </item>
+   </channel>
+   <channel>
+      <title>Newly Added</title>
+      <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
+      <link>https://blog.jetbrains.com</link>
+      <description>Developer Tools for Professionals and Teams</description>
+      <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
+      <language>en-US</language>
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+      <sy:updateFrequency>1</sy:updateFrequency>
+      <generator>https://wordpress.org/?v=5.7.2</generator>
+      <image>
+         <url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
+         <title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
+         <link>https://blog.jetbrains.com</link>
+         <width>32</width>
+         <height>32</height>
+      </image>
+      <item>
+         <title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
+         <link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
+         <dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
+         <pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
+         <featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
+         <category><![CDATA[news]]></category>
+         <category><![CDATA[contest]]></category>
+         <category><![CDATA[events]]></category>
+         <category><![CDATA[newsletter]]></category>
+         <guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
+         <description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
+      </item>
+   </channel>
+   <channel>
+      <title>Only on Jetsnack</title>
+      <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
+      <link>https://blog.jetbrains.com</link>
+      <description>Developer Tools for Professionals and Teams</description>
+      <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
+      <language>en-US</language>
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+      <sy:updateFrequency>1</sy:updateFrequency>
+      <generator>https://wordpress.org/?v=5.7.2</generator>
+      <image>
+         <url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
+         <title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
+         <link>https://blog.jetbrains.com</link>
+         <width>32</width>
+         <height>32</height>
+      </image>
+      <item>
+         <title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
+         <link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
+         <dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
+         <pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
+         <featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
+         <category><![CDATA[news]]></category>
+         <category><![CDATA[contest]]></category>
+         <category><![CDATA[events]]></category>
+         <category><![CDATA[newsletter]]></category>
+         <guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
+         <description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
+      </item>
+   </channel>
+   <channel>
+      <title>Customers also bought</title>
+      <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
+      <link>https://blog.jetbrains.com</link>
+      <description>Developer Tools for Professionals and Teams</description>
+      <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
+      <language>en-US</language>
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+      <sy:updateFrequency>1</sy:updateFrequency>
+      <generator>https://wordpress.org/?v=5.7.2</generator>
+      <image>
+         <url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
+         <title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
+         <link>https://blog.jetbrains.com</link>
+         <width>32</width>
+         <height>32</height>
+      </image>
+      <item>
+         <title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
+         <link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
+         <dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
+         <pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
+         <featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
+         <category><![CDATA[news]]></category>
+         <category><![CDATA[contest]]></category>
+         <category><![CDATA[events]]></category>
+         <category><![CDATA[newsletter]]></category>
+         <guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
+         <description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
+      </item>
+   </channel>
+   <channel>
+      <title>Inspired by your cart</title>
+      <atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
+      <link>https://blog.jetbrains.com</link>
+      <description>Developer Tools for Professionals and Teams</description>
+      <lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
+      <language>en-US</language>
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+      <sy:updateFrequency>1</sy:updateFrequency>
+      <generator>https://wordpress.org/?v=5.7.2</generator>
+      <image>
+         <url>https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png</url>
+         <title>The Kotlin Blog : Kotlin Programming Language by JetBrains | JetBrains Blog</title>
+         <link>https://blog.jetbrains.com</link>
+         <width>32</width>
+         <height>32</height>
+      </image>
+      <item>
+         <title>Calling All Kotlin Programmers! Take Part in Kotlin Heroes: Episode 7 Coding Contest</title>
+         <link>https://blog.jetbrains.com/kotlin/2021/06/kotlin-heroes-episode-7/</link>
+         <dc:creator><![CDATA[Ksenia Shneyveys]]></dc:creator>
+         <pubDate>Thu, 17 Jun 2021 16:08:18 +0000</pubDate>
+         <featuredImage>https://blog.jetbrains.com/wp-content/uploads/2021/06/Kotlin-Heroes-7.png</featuredImage>
+         <category><![CDATA[news]]></category>
+         <category><![CDATA[contest]]></category>
+         <category><![CDATA[events]]></category>
+         <category><![CDATA[newsletter]]></category>
+         <guid isPermaLink="false">https://blog.jetbrains.com/?post_type=kotlin&amp;p=155376</guid>
+         <description><![CDATA[If you’ve been thinking of new ways to level up your Kotlin coding skills, programming competitions are a great way to do so. Starting from June 22, you can polish your Kotlin skills and practice solving algorithmic problems in a dedicated practice round on the Codeforces platform. On June 29, the real challenge begins – [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>If you’ve been thinking of new ways to level up your Kotlin coding skills– [&#8230;]]]></content:encoded>
+      </item>
+   </channel>
 </rss>
+</xml>
