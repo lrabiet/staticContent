@@ -9,7 +9,7 @@
 
 <channel>
 	<title>My Snacks Collection</title>
-	<atom:link href="https://blog.jetbrains.com/kotlin/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.xml" rel="self" type="application/rss+xml" />
 	<link>https://blog.jetbrains.com</link>
 	<description>Developer Tools for Professionals and Teams</description>
 	<lastBuildDate>Fri, 18 Jun 2021 10:03:02 +0000</lastBuildDate>
