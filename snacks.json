@@ -1,9 +1,9 @@
 {
  "title": "My Snack Collection",
- "link": "",
+ "link": "https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.json",
   "description": "Hosted on github",
  "imageUrl": "https://avatars.githubusercontent.com/u/1489464?s=60&v=4",
-  "sourceUrl":"",
+  "sourceUrl":"https://raw.githubusercontent.com/lrabiet/staticContent/main/snacks.json",
   "items" : [
     {
       "title":"title",
