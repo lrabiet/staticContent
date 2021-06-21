@@ -1,0 +1,29 @@
+{
+ "title": "My Snack Collection",
+ "link": "",
+  "description": "Hosted on github",
+ "imageUrl": "https://avatars.githubusercontent.com/u/1489464?s=60&v=4",
+  "sourceUrl":"",
+  "items" : [
+    {
+      "title":"title",
+      "link":"link",
+      "description":"description",
+      "imageUrl": "https://avatars.githubusercontent.com/u/1489464?s=60&v=4",
+      "name":"name",
+      "price" : 123,
+      "date": 1624301800895
+},
+    {
+      "title":"title",
+      "link":"link",
+      "description":"description",
+      "imageUrl": "https://avatars.githubusercontent.com/u/1489464?s=60&v=4",
+      "name":"name",
+      "price" : 13,
+      "date": 1624301800895
+},
+  ],
+  "isDefault": true
+
+}
